@@ -1,4 +1,4 @@
-package com.ywalakamar.project;
+package com.java.learn;
 
 public class Website {
 	//fields or instance variables
